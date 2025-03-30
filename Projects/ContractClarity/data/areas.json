@@ -1,0 +1,38 @@
+{
+  "Analytics": {
+    "subareas": [
+      "Spend Overview Module",
+      "Sourcing Roadmap Module",
+      "Insights Dashboard"
+    ]
+  },
+  "Contracts Management": {
+    "subareas": [
+      "Contract Intelligence",
+      "Contract Explorer",
+      "Contract Lifecycle Management"
+    ]
+  },
+  "Supplier Management": {
+    "subareas": [
+      "Supplier Performance Tracking",
+      "Supplier Discovery",
+      "Diversity Spend Analysis"
+    ]
+  },
+  "Admin Portal": {
+    "subareas": [
+      "User Management",
+      "Access Controls",
+      "Configuration Settings",
+      "System Integration"
+    ]
+  },
+  "Platform Infrastructure": {
+    "subareas": [
+      "API Services",
+      "Data Processing",
+      "Security Framework"
+    ]
+  }
+}

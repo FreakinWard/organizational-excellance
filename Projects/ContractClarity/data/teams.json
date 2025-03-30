@@ -1,0 +1,51 @@
+{
+  "product_teams": [
+    {
+      "name": "Blue Fusion",
+      "description": "Product platform team",
+      "focus_area": "Analytics"
+    },
+    {
+      "name": "Transformers",
+      "description": "Product platform team",
+      "focus_area": "Supplier Management"
+    },
+    {
+      "name": "Ctrl-Alt-Elite",
+      "description": "Product platform team",
+      "focus_area": "Admin Portal"
+    },
+    {
+      "name": "TTRN",
+      "description": "Product platform team",
+      "focus_area": null
+    },
+    {
+      "name": "Top Secret",
+      "description": "Product platform team",
+      "focus_area": null
+    },
+    {
+      "name": "X-Force",
+      "description": "Product platform team focusing on Contract Explorer/Intelligence",
+      "focus_area": "Contracts Management"
+    }
+  ],
+  "shared_service_teams": [
+    {
+      "name": "Ninjas",
+      "description": "DevOps shared service team",
+      "focus": "DevOps"
+    },
+    {
+      "name": "Zamboni Mafia",
+      "description": "Platform Architecture shared service team",
+      "focus": "Platform Infrastructure"
+    },
+    {
+      "name": "DART",
+      "description": "Data & AI, Research & Tooling shared service team",
+      "focus": "Data & AI"
+    }
+  ]
+}
