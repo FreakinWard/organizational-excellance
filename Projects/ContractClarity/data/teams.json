@@ -1,51 +1,51 @@
 {
   "product_teams": [
     {
-      "name": "Blue Fusion",
+      "name": "Cobalt Coalition",
       "description": "Product platform team",
-      "focus_area": "Analytics"
+      "focus_area": ["Analytics"]
     },
     {
-      "name": "Transformers",
+      "name": "Metamorphs",
       "description": "Product platform team",
-      "focus_area": "Supplier Management"
+      "focus_area": ["Contracts Management"]
     },
     {
-      "name": "Ctrl-Alt-Elite",
+      "name": "Esc-Tab-Prime",
       "description": "Product platform team",
-      "focus_area": "Admin Portal"
+      "focus_area": ["Supplier Management"]
     },
     {
-      "name": "TTRN",
+      "name": "QRTZ",
       "description": "Product platform team",
-      "focus_area": null
+      "focus_area": ["Admin Portal"]
     },
     {
-      "name": "Top Secret",
+      "name": "Covert Command",
       "description": "Product platform team",
-      "focus_area": null
+      "focus_area": []
     },
     {
-      "name": "X-Force",
-      "description": "Product platform team focusing on Contract Explorer/Intelligence",
-      "focus_area": "Contracts Management"
+      "name": "Z-Squad",
+      "description": "Product platform team",
+      "focus_area": []
     }
   ],
   "shared_service_teams": [
     {
-      "name": "Ninjas",
+      "name": "Samurai",
       "description": "DevOps shared service team",
-      "focus": "DevOps"
+      "focus_area": []
     },
     {
-      "name": "Zamboni Mafia",
+      "name": "Ice Cartel",
       "description": "Platform Architecture shared service team",
-      "focus": "Platform Infrastructure"
+      "focus_area": ["Platform Infrastructure"]
     },
     {
-      "name": "DART",
+      "name": "JAVELIN",
       "description": "Data & AI, Research & Tooling shared service team",
-      "focus": "Data & AI"
+      "focus_area": ["AI Data"]
     }
   ]
 }

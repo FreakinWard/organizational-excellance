@@ -34,8 +34,8 @@ This ensures all stakeholders maintain a consistent understanding of:
 
 ## Key Demonstrations
 
-- Team ownership of specific areas (e.g., X-Force with Contract Explorer)
-- Shared service teams supporting product teams (e.g., DART supporting X-Force on AI features)
+- Team ownership of specific areas (e.g., Z-Squad with Contract Explorer)
+- Shared service teams supporting product teams (e.g., JAVELIN supporting Z-Squad on AI features)
 - Platform dependencies (Node upgrade affects all teams)
 - Release planning (tasks show sequence and dependencies)
 - Cross-team collaboration (shared ownership of features)
@@ -46,12 +46,12 @@ This ensures all stakeholders maintain a consistent understanding of:
    - Product teams (Blue Fusion, Transformers, etc.) can own specific product areas like Analytics or Contracts
    - Shared service teams align naturally:
      - Ninjas (DevOps) can own deployment pipelines across all areas
-     - Zamboni Mafia (Platform Architecture) can own Platform Infrastructure
-     - DART (Data & AI) can support Analytics and data processing capabilities
+     - Ice Cartel (Platform Architecture) can own Platform Infrastructure
+     - JAVELIN (Data & AI) can support Analytics and data processing capabilities
 
 2. **Workflow Demonstration**: Shows how features flow from ideas through development and testing:
    - Example: Contract Explorer feature would move through requirements, development, testing, and deployment
-   - Shows integration points between teams (e.g., when DART needs to support a new analytics capability)
+   - Shows integration points between teams (e.g., when JAVELIN needs to support a new analytics capability)
 
 3. **Clear Reporting Structure**: Enables leadership to see:
    - Which teams own which product areas
@@ -156,7 +156,6 @@ This lifecycle ensures that work items not only track progress but also facilita
 
 ### Best Practices
 
-- Maintain consistent naming conventions for `short_desc` fields
 - Ensure each work item has a clear owner
 - Keep descriptions concise but informative
 - Update status regularly to maintain accurate project visibility

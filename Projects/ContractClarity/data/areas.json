@@ -28,6 +28,16 @@
       "System Integration"
     ]
   },
+  "AI Data": {
+    "subareas": [
+      "NLP Processing Engine",
+      "Document Classification Models",
+      "Predictive Analytics Framework",
+      "Entity Recognition System",
+      "Recommendation Engine"
+    ]
+  },
+
   "Platform Infrastructure": {
     "subareas": [
       "API Services",

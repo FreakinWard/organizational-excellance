@@ -4,29 +4,33 @@
       "id": "",
       "short_desc": "Epic 1",
       "name": "Platform Modernization",
-      "owner": "Zamboni Mafia",
-      "description": "Upgrade core platform infrastructure to support new features and improve performance"
+      "owner": "Ice Cartel",
+      "description": "Upgrade core platform infrastructure to support new features and improve performance",
+      "area": "Platform Infrastructure"
     },
     {
       "id": "",
       "short_desc": "Epic 2",
       "name": "Contract Management Enhancement",
-      "owner": "X-Force",
-      "description": "Expand Contract Explorer capabilities with advanced AI features and improved UX"
+      "owner": "Z-Squad",
+      "description": "Expand Contract Explorer capabilities with advanced AI features and improved UX",
+      "area": "Contracts Management"
     },
     {
       "id": "",
       "short_desc": "Epic 3",
       "name": "Analytics Dashboard Refresh",
-      "owner": "Blue Fusion",
-      "description": "Redesign analytics dashboard with expanded metrics and visualization tools"
+      "owner": "Cobalt Coalition",
+      "description": "Redesign analytics dashboard with expanded metrics and visualization tools",
+      "area": "Analytics"
     },
     {
       "id": "",
       "short_desc": "Epic 4",
       "name": "Supplier Management Optimization",
-      "owner": "Transformers",
-      "description": "Enhance supplier management capabilities with improved performance tracking and diversity metrics"
+      "owner": "Metamorphs",
+      "description": "Enhance supplier management capabilities with improved performance tracking and diversity metrics",
+      "area": "Supplier Management"
     }
   ],
   "features": [
@@ -36,7 +40,8 @@
       "name": "Node.js v14 to v20 Upgrade",
       "epic_id": "",
       "epic_short_desc": "Epic 1",
-      "owner": "Zamboni Mafia"
+      "owner": "Ice Cartel",
+      "area": "Platform Infrastructure"
     },
     {
       "id": "",
@@ -44,7 +49,8 @@
       "name": "API Gateway Modernization",
       "epic_id": "",
       "epic_short_desc": "Epic 1",
-      "owner": "Zamboni Mafia"
+      "owner": "Ice Cartel",
+      "area": "Platform Infrastructure"
     },
     {
       "id": "",
@@ -52,7 +58,8 @@
       "name": "Authentication System Redesign",
       "epic_id": "",
       "epic_short_desc": "Epic 1",
-      "owner": "Ninjas"
+      "owner": "Samurai",
+      "area": "Platform Infrastructure"
     },
     {
       "id": "",
@@ -60,8 +67,9 @@
       "name": "AI-Powered Contract Analysis",
       "epic_id": "",
       "epic_short_desc": "Epic 2",
-      "owner": "X-Force",
-      "support": "DART"
+      "owner": "Z-Squad",
+      "support": "JAVELIN",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -69,7 +77,8 @@
       "name": "Batch Contract Processing",
       "epic_id": "",
       "epic_short_desc": "Epic 2",
-      "owner": "X-Force"
+      "owner": "Z-Squad",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -77,8 +86,9 @@
       "name": "Automated Clause Identification",
       "epic_id": "",
       "epic_short_desc": "Epic 2",
-      "owner": "X-Force",
-      "support": "DART"
+      "owner": "Z-Squad",
+      "support": "JAVELIN",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -86,7 +96,8 @@
       "name": "Spend Analysis Dashboard",
       "epic_id": "",
       "epic_short_desc": "Epic 3",
-      "owner": "Blue Fusion"
+      "owner": "Cobalt Coalition",
+      "area": "Analytics"
     },
     {
       "id": "",
@@ -94,8 +105,9 @@
       "name": "Custom Reporting Engine",
       "epic_id": "",
       "epic_short_desc": "Epic 3",
-      "owner": "Blue Fusion",
-      "support": "DART"
+      "owner": "Cobalt Coalition",
+      "support": "JAVELIN",
+      "area": "Analytics"
     },
     {
       "id": "",
@@ -103,7 +115,8 @@
       "name": "Data Visualization Tools",
       "epic_id": "",
       "epic_short_desc": "Epic 3",
-      "owner": "Blue Fusion"
+      "owner": "Cobalt Coalition",
+      "area": "Analytics"
     },
     {
       "id": "",
@@ -111,7 +124,8 @@
       "name": "Supplier Performance Metrics",
       "epic_id": "",
       "epic_short_desc": "Epic 4",
-      "owner": "Transformers"
+      "owner": "Metamorphs",
+      "area": "Supplier Management"
     },
     {
       "id": "",
@@ -119,7 +133,8 @@
       "name": "Diversity Spend Tracking",
       "epic_id": "",
       "epic_short_desc": "Epic 4",
-      "owner": "Transformers"
+      "owner": "Metamorphs",
+      "area": "Supplier Management"
     },
     {
       "id": "",
@@ -127,8 +142,9 @@
       "name": "Supplier Onboarding Automation",
       "epic_id": "",
       "epic_short_desc": "Epic 4",
-      "owner": "Transformers",
-      "support": "Ninjas"
+      "owner": "Metamorphs",
+      "support": "Samurai",
+      "area": "Supplier Management"
     }
   ],
   "user_stories": [
@@ -138,7 +154,8 @@
       "name": "Update development environment to Node v20",
       "feature_id": "",
       "feature_short_desc": "Feature 1.1",
-      "description": "As a developer, I need the development environment updated to Node v20 to use modern JavaScript features"
+      "description": "As a developer, I need the development environment updated to Node v20 to use modern JavaScript features",
+      "area": "Platform Infrastructure"
     },
     {
       "id": "",
@@ -146,7 +163,8 @@
       "name": "Update build pipelines for Node v20",
       "feature_id": "",
       "feature_short_desc": "Feature 1.1",
-      "description": "As a platform engineer, I need to update build pipelines to support Node v20"
+      "description": "As a platform engineer, I need to update build pipelines to support Node v20",
+      "area": "Platform Infrastructure"
     },
     {
       "id": "",
@@ -154,7 +172,8 @@
       "name": "Update testing environments for Node v20",
       "feature_id": "",
       "feature_short_desc": "Feature 1.1",
-      "description": "As a QA tester, I need testing environments that match production Node version"
+      "description": "As a QA tester, I need testing environments that match production Node version",
+      "area": "Platform Infrastructure"
     },
     {
       "id": "",
@@ -162,7 +181,8 @@
       "name": "Extract key terms from contracts",
       "feature_id": "",
       "feature_short_desc": "Feature 2.1",
-      "description": "As a procurement manager, I want to automatically extract key terms from uploaded contracts"
+      "description": "As a procurement manager, I want to automatically extract key terms from uploaded contracts",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -170,7 +190,8 @@
       "name": "AI suggestions for contract improvements",
       "feature_id": "",
       "feature_short_desc": "Feature 2.1",
-      "description": "As a legal reviewer, I want AI-suggested improvements for contract clauses"
+      "description": "As a legal reviewer, I want AI-suggested improvements for contract clauses",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -178,7 +199,8 @@
       "name": "Generate automatic contract summaries",
       "feature_id": "",
       "feature_short_desc": "Feature 2.1",
-      "description": "As a business user, I want contract summaries generated automatically upon upload"
+      "description": "As a business user, I want contract summaries generated automatically upon upload",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -186,7 +208,8 @@
       "name": "Configure AI analysis parameters",
       "feature_id": "",
       "feature_short_desc": "Feature 2.1",
-      "description": "As a system admin, I need to configure AI analysis parameters for different contract types"
+      "description": "As a system admin, I need to configure AI analysis parameters for different contract types",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -194,7 +217,8 @@
       "name": "Flag non-standard contract clauses",
       "feature_id": "",
       "feature_short_desc": "Feature 2.3",
-      "description": "As a procurement manager, I want the system to flag non-standard contract clauses"
+      "description": "As a procurement manager, I want the system to flag non-standard contract clauses",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -202,7 +226,8 @@
       "name": "Group similar contract clauses",
       "feature_id": "",
       "feature_short_desc": "Feature 2.3",
-      "description": "As a legal reviewer, I want similar clauses from different contracts to be grouped together"
+      "description": "As a legal reviewer, I want similar clauses from different contracts to be grouped together",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -210,7 +235,8 @@
       "name": "Identify high-risk contract terms",
       "feature_id": "",
       "feature_short_desc": "Feature 2.3",
-      "description": "As a risk manager, I want automatic identification of high-risk contract terms"
+      "description": "As a risk manager, I want automatic identification of high-risk contract terms",
+      "area": "Contracts Management"
     }
   ],
   "tasks": [
@@ -220,7 +246,8 @@
       "name": "Design ML model for term extraction",
       "user_story_id": "",
       "user_story_short_desc": "User Story 2.1.1",
-      "assigned_to": "DART"
+      "assigned_to": "JAVELIN",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -228,7 +255,8 @@
       "name": "Develop UI for displaying extracted terms",
       "user_story_id": "",
       "user_story_short_desc": "User Story 2.1.1",
-      "assigned_to": "X-Force"
+      "assigned_to": "Z-Squad",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -236,7 +264,8 @@
       "name": "Create API endpoint for term extraction service",
       "user_story_id": "",
       "user_story_short_desc": "User Story 2.1.1",
-      "assigned_to": "X-Force"
+      "assigned_to": "Z-Squad",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -244,7 +273,8 @@
       "name": "Implement data storage for extracted terms",
       "user_story_id": "",
       "user_story_short_desc": "User Story 2.1.1",
-      "assigned_to": "X-Force"
+      "assigned_to": "Z-Squad",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -252,7 +282,8 @@
       "name": "Train ML model on contract corpus",
       "user_story_id": "",
       "user_story_short_desc": "User Story 2.1.1",
-      "assigned_to": "DART"
+      "assigned_to": "JAVELIN",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -260,7 +291,8 @@
       "name": "Integrate extraction service with Contract Explorer",
       "user_story_id": "",
       "user_story_short_desc": "User Story 2.1.1",
-      "assigned_to": "X-Force"
+      "assigned_to": "Z-Squad",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -268,7 +300,8 @@
       "name": "Create automated tests for term extraction",
       "user_story_id": "",
       "user_story_short_desc": "User Story 2.1.1",
-      "assigned_to": "X-Force/QA"
+      "assigned_to": "Z-Squad/QA",
+      "area": "Contracts Management"
     },
     {
       "id": "",
@@ -276,7 +309,8 @@
       "name": "Document Node v20 migration requirements",
       "user_story_id": "",
       "user_story_short_desc": "User Story 1.1.1",
-      "assigned_to": "Zamboni Mafia"
+      "assigned_to": "Ice Cartel",
+      "area": "Platform Infrastructure"
     },
     {
       "id": "",
@@ -284,7 +318,8 @@
       "name": "Update package.json files across repositories",
       "user_story_id": "",
       "user_story_short_desc": "User Story 1.1.1",
-      "assigned_to": "Zamboni Mafia"
+      "assigned_to": "Ice Cartel",
+      "area": "Platform Infrastructure"
     },
     {
       "id": "",
@@ -292,7 +327,8 @@
       "name": "Test application functionality with Node v20",
       "user_story_id": "",
       "user_story_short_desc": "User Story 1.1.1",
-      "assigned_to": "QA"
+      "assigned_to": "QA",
+      "area": "Platform Infrastructure"
     },
     {
       "id": "",
@@ -300,7 +336,8 @@
       "name": "Fix deprecated API usage in codebase",
       "user_story_id": "",
       "user_story_short_desc": "User Story 1.1.1",
-      "assigned_to": "Zamboni Mafia"
+      "assigned_to": "Ice Cartel",
+      "area": "Platform Infrastructure"
     }
   ]
 }
