@@ -14,6 +14,7 @@ This repository serves as both a diagnostic tool and a roadmap for organizations
 | **Engineering Manager** | [Transformation Approach](#the-transformation-approach) → [Benefits for Managers](#key-benefits) → [Project Examples](./Projects) |
 | **Individual Contributor** | [Benefits for Contributors](#key-benefits) → [Project Examples](./Projects) → [Implementation](./Strategies/Product-driven-agile.md#work-item-creation-guidelines) |
 | **Process Specialist** | [Strategies](./Strategies) → [Implementation Approach](#implementation-approach) → [Project Examples](./Projects) |
+| **Team Lead/Scrum Master** | [Agile Team Guide](./Teams) → [Benefits for Managers](#key-benefits) → [Project Examples](./Projects) |
 
 ```
 ┌───────────────┐         ┌───────────────┐         ┌───────────────┐
@@ -63,6 +64,8 @@ This repository demonstrates how targeted adjustments to your work organization 
 
 - [**Projects**](./Projects): Real-world implementations with concrete examples
   - [ContractClarity](./Projects/ContractClarity/ContractClarity.md): A procurement platform case study
+
+- [**Teams**](./Teams): Comprehensive guidance on agile team roles, responsibilities, and expectations
 
 - [**Diagnostic**](./Diagnostic.md): Self-assessment tool to identify your organizational challenges
 
@@ -127,7 +130,8 @@ After reviewing this introduction:
 1. Take the [self-assessment](./Diagnostic.md) to identify your most pressing challenges
 2. Explore the [Product-Driven Agile Framework](./Strategies/Product-driven-agile.md) for a comprehensive methodology
 3. See the framework in action in the [ContractClarity project](./Projects/ContractClarity/ContractClarity.md)
-4. Adapt the templates and approaches to your specific organizational context
+4. Review the [Teams Guide](./Teams) to understand role expectations and team dynamics
+5. Adapt the templates and approaches to your specific organizational context
 
 ---
 
